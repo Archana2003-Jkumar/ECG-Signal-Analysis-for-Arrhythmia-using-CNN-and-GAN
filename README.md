@@ -16,7 +16,8 @@ B. Tensorflow
 6. A sigmoid-activated dense layer provides the binary classification output (arrhythmia detection).
    
 ## System Architecture:
-![Uploading image.png…]()
+![Arch diagram](https://github.com/user-attachments/assets/5fb29ccc-fbff-431a-8572-e72442b7359e)
+
 
 ## Code
 ### Model of GAN:

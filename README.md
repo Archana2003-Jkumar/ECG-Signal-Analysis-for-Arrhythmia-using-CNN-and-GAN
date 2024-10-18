@@ -14,6 +14,9 @@ B. Tensorflow
 4. Max pooling is used to to downsample the data. T
 5. Two LSTM layers :  capture temporal dependencies in the sequential data, with dropout added to prevent overfitting. The output of the LSTM is fed into dense layers for final feature transformation. 
 6. A sigmoid-activated dense layer provides the binary classification output (arrhythmia detection).
+   
+## System Architecture:
+![Uploading image.png…]()
 
 ## Code
 ### Model of GAN:

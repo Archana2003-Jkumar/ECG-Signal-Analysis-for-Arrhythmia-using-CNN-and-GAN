@@ -6,14 +6,14 @@
 1. Jupyter Notebook
 2. Python Libraries
 ## Implementation:
-1.The project is implemented by python using the following libraries:
-A.Jupyter Notebook
-B.Tensorflow
-2.The project includes Convolution Neural Network that can be used to extract the patterns.
-3.This model first applies 1D convolution layers to extract features from ECG signals.
-4.Max pooling is used to to downsample the data. T
-5.Two LSTM layers :  capture temporal dependencies in the sequential data, with dropout added to prevent overfitting. The output of the LSTM is fed into dense layers for final feature transformation. 
-6.A sigmoid-activated dense layer provides the binary classification output (arrhythmia detection).
+1. The project is implemented by python using the following libraries:
+A. Jupyter Notebook
+B. Tensorflow
+2. The project includes Convolution Neural Network that can be used to extract the patterns.
+3. This model first applies 1D convolution layers to extract features from ECG signals.
+4. Max pooling is used to to downsample the data. T
+5. Two LSTM layers :  capture temporal dependencies in the sequential data, with dropout added to prevent overfitting. The output of the LSTM is fed into dense layers for final feature transformation. 
+6. A sigmoid-activated dense layer provides the binary classification output (arrhythmia detection).
 
 ## Code
 ### Model of GAN:
